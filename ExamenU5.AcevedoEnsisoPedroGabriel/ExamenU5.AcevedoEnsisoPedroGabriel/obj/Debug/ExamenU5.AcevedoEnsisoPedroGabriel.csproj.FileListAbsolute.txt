@@ -1,0 +1,7 @@
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\ExamenU5.AcevedoEnsisoPedroGabriel\ExamenU5.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU5.AcevedoEnsisoPedroGabriel.exe.config
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\ExamenU5.AcevedoEnsisoPedroGabriel\ExamenU5.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU5.AcevedoEnsisoPedroGabriel.exe
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\ExamenU5.AcevedoEnsisoPedroGabriel\ExamenU5.AcevedoEnsisoPedroGabriel\bin\Debug\ExamenU5.AcevedoEnsisoPedroGabriel.pdb
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\ExamenU5.AcevedoEnsisoPedroGabriel\ExamenU5.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU5.AcevedoEnsisoPedroGabriel.csprojAssemblyReference.cache
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\ExamenU5.AcevedoEnsisoPedroGabriel\ExamenU5.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU5.AcevedoEnsisoPedroGabriel.csproj.CoreCompileInputs.cache
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\ExamenU5.AcevedoEnsisoPedroGabriel\ExamenU5.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU5.AcevedoEnsisoPedroGabriel.exe
+C:\Users\Pink1\Desktop\Pedro\Estructura de datos\ExamenU5.AcevedoEnsisoPedroGabriel\ExamenU5.AcevedoEnsisoPedroGabriel\obj\Debug\ExamenU5.AcevedoEnsisoPedroGabriel.pdb
